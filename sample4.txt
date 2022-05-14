@@ -1,2 +1,4 @@
-this sample4 created by dev-2
+ this sample4 created by dev-2
 this is modified by dev-1, modified by dev-1 again
+this is modified by dev-1, modified by dev-2
+
